@@ -1,0 +1,9 @@
+insert into user(id, name, password, usertype) values (1, 'admin@gmail.com', 'sweet', 'admin');
+insert into user(id, name, password, usertype) values (2, 'student@gmail.com', 'sweet', 'student');
+insert into user(id, name, password, usertype) values (3, 'instructor@gmail.com', 'sweet', 'instructor');
+insert into user(id, name, password, usertype) values (4, 'matu@gmail.com', 'sweet', 'admin');
+insert into user(id, name, password, usertype) values (5, 'laxmikant@gmail.com', 'abc5', 'student');
+insert into user(id, name, password, usertype) values (6, 'aniruddha@gmail.com',  'abc4', 'instructor');
+insert into user(id, name, password, usertype) values (7, 'tanishka@gmail.com',  'abc1', 'instructor');
+insert into user(id, name, password, usertype) values (8, 'avnish@gmail.com', 'abc2', 'student');
+insert into user(id, name, password, usertype) values (9, 'prashanth@gmail.com', 'abc3', 'student');
